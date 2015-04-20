@@ -1,0 +1,4 @@
+Es\t	una\t	prueba\\
+\\de conversion\t	de\t	caracteres\\
+\\ para el \t	trabajo \\\t	practico
+\\\\Nø2\t	\\
